@@ -1,6 +1,4 @@
-https://i.imgur.com/jb78cM0.png
-https://i.imgur.com/jaBe5Po.png
-https://i.imgur.com/AS06grH.png
+https://imgur.com/jb78cM0
 
 # DarkUnification-KDE-Plasma-color-scheme
 A dark KDE Plasma color scheme with red highlights
